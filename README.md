@@ -1,3 +1,5 @@
+![Iroh's Profile](iroh.png)
+
 # Iroh's Philosophy
 
 Welcome to the public roadmap for Iroh's Philosophy!
