@@ -13,3 +13,7 @@ Here, you will find information on the current and upcoming features, as well as
 I am committed to constantly improving and expanding my offerings, and your feedback is essential to making that happen.
 
 I encourage you to share your thoughts and suggestions on the roadmap, and I look forward to building this project together with you.
+
+---
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=3f630e6ad7c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
